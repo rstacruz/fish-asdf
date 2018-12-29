@@ -18,7 +18,7 @@ git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.4.0
 Using [Fisherman](https://github.com/fisherman/fisherman), install the plugin:
 
 ```bash
-fisher rstacruz/fish-asdf
+fisher add rstacruz/fish-asdf
 ```
 
 ## Thanks
