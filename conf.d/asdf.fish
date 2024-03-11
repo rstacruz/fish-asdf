@@ -4,6 +4,8 @@ else if test -f ~/.asdf/asdf.fish
     source ~/.asdf/asdf.fish
 else if test -f /usr/local/opt/asdf/asdf.fish
     source /usr/local/opt/asdf/asdf.fish
+else if test -f /usr/local/opt/asdf/libexec/asdf.fish
+    source /usr/local/opt/asdf/libexec/asdf.fish
 else if test -f /opt/homebrew/opt/asdf/asdf.fish
     source /opt/homebrew/opt/asdf/asdf.fish
 else if test -f /opt/homebrew/opt/asdf/libexec/asdf.fish
