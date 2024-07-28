@@ -8,11 +8,11 @@ This allows you to use asdf version manager for Fish in a set up managed by [Fis
 
 ## Install
 
-Install asdf version manager according to its instructions. As of v0.4.0, that is:
+Install asdf version manager according to its instructions. As of v0.14.0, that is:
 
 ```bash
 # NOTE: check https://github.com/asdf-vm/asdf for updated installation instructions!
-git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.4.0
+git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.14.0
 ```
 
 Using [Fisher](https://github.com/jorgebucaran/fisher), install the plugin:
@@ -23,7 +23,7 @@ fisher install rstacruz/fish-asdf
 
 ## Thanks
 
-**fish-asdf** © 2022, Rico Sta. Cruz. Released under the [MIT] License.<br>
+**fish-asdf** © 2024, Rico Sta. Cruz. Released under the [MIT] License.<br>
 Authored and maintained by Rico Sta. Cruz with help from contributors ([list][contributors]).
 
 > [ricostacruz.com](http://ricostacruz.com) &nbsp;&middot;&nbsp;
